@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+  <!-- content goes here -->
+    <name>Vietnamese</name>
+    <author>RepBo</author>
+    <packageId>RepBo.RepBoVietnamese</packageId>
+    <description>Translate to Vietnamese</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+
+</ModMetaData>
